@@ -1,6 +1,18 @@
+# Comments from Mark A. Yoder
+#
+# 5 dts file
+# 3 comment block - Didn't add own name
+# 5 Debian release names
+# 5 Debian package count before and after adding jessie
+# 0 htop versions before and after jessie - Didn't add jessie
+
+# Grade:  18/25
+#######################################################
+
 To: Mark A. Yoder
 
-Date: 02-11-15
+
+Date: 02-11-15
 From: Mohit Sharma
 
 
