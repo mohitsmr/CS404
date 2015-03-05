@@ -1,3 +1,15 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 5
+# Fritzing   0 - Bonus
+# Code       5 - Looks like other's code
+
+
+Grade:  15/25
+
+================================================
+
 
 To : Mark A Yoder
 

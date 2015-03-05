@@ -84,7 +84,7 @@ function yPos(x) {
 
 
 function takeAction(){
-  //console.log(pos.x + ' ' + pos.y);
+  // console.log(pos.x + ' ' + pos.y);
   if(pos.x==0.49 && pos.y==1.00){
     if(n>=0&&n<gridSize-1) {
       x[m][n]='*';                      //setting values

@@ -1,3 +1,16 @@
+# Comments by Mark A. Yoder
+
+5 Ran matrixLEDi2c.js
+5 Something extra
+5 Respond to switch
+5 ReadMe.txt
+0 Not late
+
+
+Grade: 20/25
+
+=======================================
+
 To : Mark A Yoder
 
 From : Mohit Sharma

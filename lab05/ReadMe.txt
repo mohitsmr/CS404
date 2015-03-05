@@ -1,3 +1,17 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 5 - Each lab partner is to write their own ReadMe.txt
+# Fritzing   0 - Missing
+# Code       5
+# Table      0 - Missing
+
+Grade:  15/25
+
+Show me what the errors are.  
+
+================================================
+
 
 To : Mark A Yoder
 

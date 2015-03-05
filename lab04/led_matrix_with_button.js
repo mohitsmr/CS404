@@ -1,9 +1,3 @@
-/*
- Program- LED Matrix Demonstration
- Author- Mohit Sharma
-
-*/
-
 #!/usr/bin/env node
 
 var b=require ('bonescript');
