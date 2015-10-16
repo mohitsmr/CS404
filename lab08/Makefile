@@ -1,10 +1,3 @@
-/**
- * @date    4 April 2015
- * @version 0.1
- * @editby Mohit Sharma  
-*/
-
-
 obj-m+=hello2.o
 
 all:
