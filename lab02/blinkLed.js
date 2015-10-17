@@ -1,4 +1,4 @@
-# Author : Tushar Jain and Mohit Sharma
+// # Author : Tushar Jain and Mohit Sharma
 
 var b = require('bonescript');
 

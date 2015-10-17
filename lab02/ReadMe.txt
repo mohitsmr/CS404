@@ -1,3 +1,15 @@
+# Comments from Mark A. Yoder
+
+5 blinkled.js
+5 input.js
+5 some variation
+5 ReadMe.txt
+5 Not late
+
+Grade:  25/25
+
+========================================
+
 To: Prof. Mark A. Yoder
 
 From: Mohit Sharma and Tushar Jain
