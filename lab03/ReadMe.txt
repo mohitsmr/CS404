@@ -1,3 +1,16 @@
+# Comments from Mark A. Yoder
+
+5	Analog In
+5	Analog Out
+5	Combine In and Out
+4	jsfiddle Local       - Don't see your code for this
+0	Add a button (bonus)
+5	ReadMe.txt
+
+Grade:  24/25
+
+========================================
+
 To: Prof. Mark A. Yoder
 
 From: Mohit Sharma and Tushar Jain
